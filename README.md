@@ -1,6 +1,6 @@
 Hi , I am Saurabh Singh , a fresher in Mathematics and Computing at IIT Mandi.
 JEE Advanced Rank: 3802
-Interseted in Technology and Development
+Interested in Technology and Development
 
 
 <!---
