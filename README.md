@@ -1,4 +1,5 @@
-Hi , I am Saurabh Singh , a fresher in Mathematics and Computing at IIT Mandi.
+Saurabh Singh 
+Second Year , Mathematics and Computing , IIT Mandi
 Interested in Technology and Development
 
 
